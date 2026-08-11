@@ -1,0 +1,201 @@
+Dealer_ID,Dealer_Name,Dealer_Type,State,City,Region,Opening_Year,Sales_Target,Dealer_Rating
+DLR001,Royal Enfield Flagship Store - Ujjain,Flagship Showroom,Madhya Pradesh,Ujjain,Central,2012,178,4.3
+DLR002,Thrissur Royal Drive Royal Enfield,Authorized Dealership,Kerala,Thrissur,South,2007,155,4.2
+DLR003,Royal Enfield Flagship Store - Salem,Flagship Showroom,Tamil Nadu,Salem,South,2021,227,4.2
+DLR004,South Delhi Royal Drive Royal Enfield,Authorized Dealership,Delhi,South Delhi,North,2018,108,4.2
+DLR005,Karnal Brand Store Royal Enfield,Authorized Dealership,Haryana,Karnal,North,2010,134,4.1
+DLR006,Visakhapatnam Speedways Royal Enfield,Authorized Dealership,Andhra Pradesh,Visakhapatnam,South,2008,91,4.2
+DLR007,Udaipur Riders Hub Royal Enfield,Authorized Dealership,Rajasthan,Udaipur,North,2006,138,4.3
+DLR008,Royal Enfield Flagship Store - Mumbai,Flagship Showroom,Maharashtra,Mumbai,West,2024,196,4.7
+DLR009,Royal Enfield Flagship Store - Hubballi,Flagship Showroom,Karnataka,Hubballi,South,2014,160,4.9
+DLR010,Kozhikode Apex Motors Royal Enfield,Authorized Dealership,Kerala,Kozhikode,South,2016,100,4.2
+DLR011,West Delhi Motors Royal Enfield,Authorized Dealership,Delhi,West Delhi,North,2024,101,4.3
+DLR012,Royal Enfield Flagship Store - Patiala,Flagship Showroom,Punjab,Patiala,North,2013,231,4.8
+DLR013,Ludhiana Brand Store Royal Enfield,Authorized Dealership,Punjab,Ludhiana,North,2012,84,4.6
+DLR014,Nashik Wheelz Royal Enfield,Authorized Dealership,Maharashtra,Nashik,West,2023,120,4.0
+DLR015,Durgapur Apex Motors Royal Enfield,Authorized Dealership,West Bengal,Durgapur,East,2009,113,3.9
+DLR016,Ranchi Vanguard Motors Royal Enfield,Authorized Dealership,Jharkhand,Ranchi,East,2023,131,4.2
+DLR017,Nizamabad Motors Royal Enfield,Authorized Dealership,Telangana,Nizamabad,South,2006,94,4.0
+DLR018,Vijayawada Vanguard Motors Royal Enfield,Authorized Dealership,Andhra Pradesh,Vijayawada,South,2024,88,4.2
+DLR019,Dibrugarh Royal Drive Royal Enfield,Studio Store,Assam,Dibrugarh,East,2013,75,4.4
+DLR020,Coimbatore Motors Royal Enfield,Authorized Dealership,Tamil Nadu,Coimbatore,South,2022,114,4.6
+DLR021,Royal Enfield Flagship Store - Jaipur,Flagship Showroom,Rajasthan,Jaipur,North,2010,208,4.2
+DLR022,Faridabad Automobiles Royal Enfield,Studio Store,Haryana,Faridabad,North,2021,46,4.4
+DLR023,Kanpur Royal Drive Royal Enfield,Authorized Dealership,Uttar Pradesh,Kanpur,North,2024,105,4.0
+DLR024,Vijayawada Royal Drive Royal Enfield,Authorized Dealership,Andhra Pradesh,Vijayawada,South,2005,156,4.1
+DLR025,Royal Enfield Flagship Store - Madurai,Flagship Showroom,Tamil Nadu,Madurai,South,2014,180,4.2
+DLR026,Jamshedpur Motors Royal Enfield,Studio Store,Jharkhand,Jamshedpur,East,2020,44,4.5
+DLR027,Patna Automobiles Royal Enfield,Authorized Dealership,Bihar,Patna,East,2020,150,4.0
+DLR028,Rourkela Vanguard Motors Royal Enfield,Studio Store,Odisha,Rourkela,East,2011,74,4.3
+DLR029,South Delhi Vanguard Motors Royal Enfield,Authorized Dealership,Delhi,South Delhi,North,2016,136,4.7
+DLR030,Royal Enfield Flagship Store - Rajkot,Flagship Showroom,Gujarat,Rajkot,West,2007,193,4.2
+DLR031,Muzaffarpur Wheelz Royal Enfield,Authorized Dealership,Bihar,Muzaffarpur,East,2005,89,4.5
+DLR032,Mangaluru Brand Store Royal Enfield,Authorized Dealership,Karnataka,Mangaluru,South,2015,89,4.3
+DLR033,Karnal Wheelz Royal Enfield,Authorized Dealership,Haryana,Karnal,North,2022,96,4.5
+DLR034,Dhanbad Wheelz Royal Enfield,Authorized Dealership,Jharkhand,Dhanbad,East,2020,132,4.0
+DLR035,Kozhikode Speedways Royal Enfield,Authorized Dealership,Kerala,Kozhikode,South,2018,132,4.3
+DLR036,Mysuru Motors Royal Enfield,Authorized Dealership,Karnataka,Mysuru,South,2006,131,4.5
+DLR037,Thrissur Wheelz Royal Enfield,Authorized Dealership,Kerala,Thrissur,South,2022,137,3.9
+DLR038,New Delhi Wheelz Royal Enfield,Authorized Dealership,Delhi,New Delhi,North,2007,136,4.6
+DLR039,Royal Enfield Flagship Store - Muzaffarpur,Flagship Showroom,Bihar,Muzaffarpur,East,2005,161,4.9
+DLR040,Royal Enfield Flagship Store - Jalandhar,Flagship Showroom,Punjab,Jalandhar,North,2020,177,4.9
+DLR041,Royal Enfield Flagship Store - Mangaluru,Flagship Showroom,Karnataka,Mangaluru,South,2017,183,4.9
+DLR042,Bhavnagar Royal Drive Royal Enfield,Authorized Dealership,Gujarat,Bhavnagar,West,2020,99,4.0
+DLR043,Chandigarh Royal Drive Royal Enfield,Studio Store,Punjab,Chandigarh,North,2006,87,3.8
+DLR044,Mysuru Royal Drive Royal Enfield,Authorized Dealership,Karnataka,Mysuru,South,2021,100,3.9
+DLR045,Royal Enfield Flagship Store - Bhubaneswar,Flagship Showroom,Odisha,Bhubaneswar,East,2007,226,4.3
+DLR046,Jalandhar Wheelz Royal Enfield,Authorized Dealership,Punjab,Jalandhar,North,2023,156,3.8
+DLR047,Kochi Royal Drive Royal Enfield,Authorized Dealership,Kerala,Kochi,South,2015,113,4.0
+DLR048,Varanasi Vanguard Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Varanasi,North,2009,118,4.3
+DLR049,Royal Enfield Flagship Store - Belagavi,Flagship Showroom,Karnataka,Belagavi,South,2007,218,4.4
+DLR050,Royal Enfield Flagship Store - Faridabad,Flagship Showroom,Haryana,Faridabad,North,2007,181,4.5
+DLR051,Vijayawada Royal Drive Royal Enfield,Authorized Dealership,Andhra Pradesh,Vijayawada,South,2014,158,4.8
+DLR052,Bhilai Royal Drive Royal Enfield,Authorized Dealership,Chhattisgarh,Bhilai,Central,2014,93,4.7
+DLR053,Nizamabad Motors Royal Enfield,Authorized Dealership,Telangana,Nizamabad,South,2022,99,4.1
+DLR054,Bhopal Speedways Royal Enfield,Authorized Dealership,Madhya Pradesh,Bhopal,Central,2011,113,4.3
+DLR055,Gurugram Brand Store Royal Enfield,Studio Store,Haryana,Gurugram,North,2007,80,3.9
+DLR056,Royal Enfield Flagship Store - Karnal,Flagship Showroom,Haryana,Karnal,North,2009,231,5.0
+DLR057,Vijayawada Royal Drive Royal Enfield,Authorized Dealership,Andhra Pradesh,Vijayawada,South,2018,151,3.8
+DLR058,Belagavi Automobiles Royal Enfield,Studio Store,Karnataka,Belagavi,South,2022,42,4.3
+DLR059,Guwahati Vanguard Motors Royal Enfield,Authorized Dealership,Assam,Guwahati,East,2009,85,4.1
+DLR060,Bengaluru Wheelz Royal Enfield,Studio Store,Karnataka,Bengaluru,South,2012,82,3.6
+DLR061,Ranchi Vanguard Motors Royal Enfield,Studio Store,Jharkhand,Ranchi,East,2024,87,3.7
+DLR062,Jalandhar Automobiles Royal Enfield,Studio Store,Punjab,Jalandhar,North,2018,41,3.7
+DLR063,Ghaziabad Vanguard Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Ghaziabad,North,2012,114,4.0
+DLR064,Thrissur Brand Store Royal Enfield,Authorized Dealership,Kerala,Thrissur,South,2020,108,4.0
+DLR065,Bhavnagar Wheelz Royal Enfield,Authorized Dealership,Gujarat,Bhavnagar,West,2012,83,4.5
+DLR066,Nashik Motors Royal Enfield,Authorized Dealership,Maharashtra,Nashik,West,2013,124,4.4
+DLR067,Nashik Royal Drive Royal Enfield,Authorized Dealership,Maharashtra,Nashik,West,2015,83,3.9
+DLR068,Royal Enfield Flagship Store - Faridabad,Flagship Showroom,Haryana,Faridabad,North,2006,163,4.7
+DLR069,Jodhpur Speedways Royal Enfield,Authorized Dealership,Rajasthan,Jodhpur,North,2018,157,4.8
+DLR070,Kollam Wheelz Royal Enfield,Authorized Dealership,Kerala,Kollam,South,2013,85,4.5
+DLR071,Chennai Royal Drive Royal Enfield,Authorized Dealership,Tamil Nadu,Chennai,South,2011,126,4.2
+DLR072,Ghaziabad Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Ghaziabad,North,2014,144,4.1
+DLR073,Thane Riders Hub Royal Enfield,Authorized Dealership,Maharashtra,Thane,West,2022,96,4.0
+DLR074,Mumbai Automobiles Royal Enfield,Authorized Dealership,Maharashtra,Mumbai,West,2024,152,4.1
+DLR075,Muzaffarpur Riders Hub Royal Enfield,Authorized Dealership,Bihar,Muzaffarpur,East,2014,106,4.2
+DLR076,Guwahati Speedways Royal Enfield,Authorized Dealership,Assam,Guwahati,East,2019,136,4.2
+DLR077,Chandigarh Automobiles Royal Enfield,Authorized Dealership,Punjab,Chandigarh,North,2007,116,4.3
+DLR078,Ujjain Motors Royal Enfield,Authorized Dealership,Madhya Pradesh,Ujjain,Central,2012,119,4.0
+DLR079,Royal Enfield Flagship Store - South Delhi,Flagship Showroom,Delhi,South Delhi,North,2012,210,4.7
+DLR080,Belagavi Wheelz Royal Enfield,Authorized Dealership,Karnataka,Belagavi,South,2017,143,4.2
+DLR081,Karimnagar Brand Store Royal Enfield,Authorized Dealership,Telangana,Karimnagar,South,2008,134,4.0
+DLR082,Cuttack Royal Drive Royal Enfield,Authorized Dealership,Odisha,Cuttack,East,2012,95,4.3
+DLR083,Panaji Royal Drive Royal Enfield,Authorized Dealership,Goa,Panaji,West,2024,120,4.8
+DLR084,Vadodara Royal Drive Royal Enfield,Authorized Dealership,Gujarat,Vadodara,West,2018,150,4.2
+DLR085,Vijayawada Apex Motors Royal Enfield,Authorized Dealership,Andhra Pradesh,Vijayawada,South,2019,113,4.6
+DLR086,Ujjain Royal Drive Royal Enfield,Authorized Dealership,Madhya Pradesh,Ujjain,Central,2020,160,4.0
+DLR087,Royal Enfield Flagship Store - Vadodara,Flagship Showroom,Gujarat,Vadodara,West,2012,184,4.5
+DLR088,Royal Enfield Flagship Store - Gaya,Flagship Showroom,Bihar,Gaya,East,2012,199,4.8
+DLR089,Royal Enfield Flagship Store - Chandigarh,Flagship Showroom,Punjab,Chandigarh,North,2015,219,4.6
+DLR090,Mangaluru Vanguard Motors Royal Enfield,Authorized Dealership,Karnataka,Mangaluru,South,2017,154,4.7
+DLR091,Madurai Vanguard Motors Royal Enfield,Studio Store,Tamil Nadu,Madurai,South,2020,40,4.4
+DLR092,Kanpur Vanguard Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Kanpur,North,2022,149,4.6
+DLR093,Ludhiana Riders Hub Royal Enfield,Authorized Dealership,Punjab,Ludhiana,North,2018,142,3.8
+DLR094,Jaipur Vanguard Motors Royal Enfield,Authorized Dealership,Rajasthan,Jaipur,North,2010,139,4.7
+DLR095,Gwalior Vanguard Motors Royal Enfield,Authorized Dealership,Madhya Pradesh,Gwalior,Central,2023,152,4.5
+DLR096,Kochi Automobiles Royal Enfield,Authorized Dealership,Kerala,Kochi,South,2019,103,3.9
+DLR097,Mumbai Apex Motors Royal Enfield,Authorized Dealership,Maharashtra,Mumbai,West,2015,123,4.6
+DLR098,Mumbai Vanguard Motors Royal Enfield,Authorized Dealership,Maharashtra,Mumbai,West,2013,90,4.3
+DLR099,Royal Enfield Flagship Store - Gaya,Flagship Showroom,Bihar,Gaya,East,2012,233,4.3
+DLR100,Royal Enfield Flagship Store - Bhilai,Flagship Showroom,Chhattisgarh,Bhilai,Central,2012,175,4.9
+DLR101,Royal Enfield Flagship Store - Gwalior,Flagship Showroom,Madhya Pradesh,Gwalior,Central,2020,235,4.3
+DLR102,Chandigarh Riders Hub Royal Enfield,Authorized Dealership,Punjab,Chandigarh,North,2016,101,4.4
+DLR103,Kollam Automobiles Royal Enfield,Authorized Dealership,Kerala,Kollam,South,2014,93,4.4
+DLR104,Noida Vanguard Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Noida,North,2017,105,3.9
+DLR105,Jabalpur Riders Hub Royal Enfield,Authorized Dealership,Madhya Pradesh,Jabalpur,Central,2024,95,4.6
+DLR106,Jamshedpur Speedways Royal Enfield,Authorized Dealership,Jharkhand,Jamshedpur,East,2022,134,4.5
+DLR107,Hubballi Speedways Royal Enfield,Authorized Dealership,Karnataka,Hubballi,South,2005,133,4.6
+DLR108,Thrissur Speedways Royal Enfield,Authorized Dealership,Kerala,Thrissur,South,2019,99,4.2
+DLR109,Cuttack Riders Hub Royal Enfield,Studio Store,Odisha,Cuttack,East,2024,74,4.3
+DLR110,Panaji Riders Hub Royal Enfield,Authorized Dealership,Goa,Panaji,West,2015,111,4.6
+DLR111,Thiruvananthapuram Apex Motors Royal Enfield,Authorized Dealership,Kerala,Thiruvananthapuram,South,2012,139,4.4
+DLR112,Mumbai Apex Motors Royal Enfield,Authorized Dealership,Maharashtra,Mumbai,West,2015,103,4.3
+DLR113,Udaipur Speedways Royal Enfield,Authorized Dealership,Rajasthan,Udaipur,North,2013,156,4.5
+DLR114,Karnal Royal Drive Royal Enfield,Authorized Dealership,Haryana,Karnal,North,2011,90,4.0
+DLR115,Thane Wheelz Royal Enfield,Authorized Dealership,Maharashtra,Thane,West,2020,142,4.2
+DLR116,Royal Enfield Flagship Store - Madurai,Flagship Showroom,Tamil Nadu,Madurai,South,2017,238,4.4
+DLR117,Bilaspur Apex Motors Royal Enfield,Authorized Dealership,Chhattisgarh,Bilaspur,Central,2022,147,4.1
+DLR118,Muzaffarpur Apex Motors Royal Enfield,Authorized Dealership,Bihar,Muzaffarpur,East,2013,119,4.1
+DLR119,Hyderabad Speedways Royal Enfield,Authorized Dealership,Telangana,Hyderabad,South,2008,148,4.8
+DLR120,Royal Enfield Flagship Store - New Delhi,Flagship Showroom,Delhi,New Delhi,North,2013,242,4.7
+DLR121,Rourkela Motors Royal Enfield,Authorized Dealership,Odisha,Rourkela,East,2011,117,4.0
+DLR122,Tirupati Royal Drive Royal Enfield,Authorized Dealership,Andhra Pradesh,Tirupati,South,2009,115,3.8
+DLR123,Mysuru Automobiles Royal Enfield,Authorized Dealership,Karnataka,Mysuru,South,2020,93,4.7
+DLR124,Dhanbad Apex Motors Royal Enfield,Authorized Dealership,Jharkhand,Dhanbad,East,2019,123,4.0
+DLR125,Mysuru Apex Motors Royal Enfield,Authorized Dealership,Karnataka,Mysuru,South,2008,88,4.2
+DLR126,Belagavi Brand Store Royal Enfield,Authorized Dealership,Karnataka,Belagavi,South,2009,99,4.6
+DLR127,Royal Enfield Flagship Store - Kanpur,Flagship Showroom,Uttar Pradesh,Kanpur,North,2008,221,4.8
+DLR128,Bhopal Wheelz Royal Enfield,Authorized Dealership,Madhya Pradesh,Bhopal,Central,2021,128,4.3
+DLR129,Vadodara Vanguard Motors Royal Enfield,Authorized Dealership,Gujarat,Vadodara,West,2014,152,4.4
+DLR130,Indore Motors Royal Enfield,Studio Store,Madhya Pradesh,Indore,Central,2011,80,3.7
+DLR131,Royal Enfield Flagship Store - Bilaspur,Flagship Showroom,Chhattisgarh,Bilaspur,Central,2010,220,4.3
+DLR132,Chennai Apex Motors Royal Enfield,Authorized Dealership,Tamil Nadu,Chennai,South,2014,84,4.0
+DLR133,Panipat Apex Motors Royal Enfield,Authorized Dealership,Haryana,Panipat,North,2007,109,4.7
+DLR134,Jabalpur Wheelz Royal Enfield,Authorized Dealership,Madhya Pradesh,Jabalpur,Central,2018,94,4.3
+DLR135,Royal Enfield Flagship Store - Raipur,Flagship Showroom,Chhattisgarh,Raipur,Central,2009,159,4.2
+DLR136,Noida Riders Hub Royal Enfield,Authorized Dealership,Uttar Pradesh,Noida,North,2019,95,4.3
+DLR137,Kanpur Riders Hub Royal Enfield,Authorized Dealership,Uttar Pradesh,Kanpur,North,2021,149,4.3
+DLR138,Kochi Vanguard Motors Royal Enfield,Authorized Dealership,Kerala,Kochi,South,2015,157,4.1
+DLR139,Thiruvananthapuram Brand Store Royal Enfield,Authorized Dealership,Kerala,Thiruvananthapuram,South,2013,153,3.8
+DLR140,Tirupati Apex Motors Royal Enfield,Authorized Dealership,Andhra Pradesh,Tirupati,South,2013,103,4.8
+DLR141,Surat Apex Motors Royal Enfield,Authorized Dealership,Gujarat,Surat,West,2007,140,4.1
+DLR142,Ghaziabad Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Ghaziabad,North,2010,122,4.2
+DLR143,Durgapur Vanguard Motors Royal Enfield,Authorized Dealership,West Bengal,Durgapur,East,2022,84,4.3
+DLR144,Varanasi Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Varanasi,North,2017,145,4.6
+DLR145,Chennai Royal Drive Royal Enfield,Authorized Dealership,Tamil Nadu,Chennai,South,2019,132,3.9
+DLR146,Cuttack Apex Motors Royal Enfield,Authorized Dealership,Odisha,Cuttack,East,2019,86,4.0
+DLR147,Royal Enfield Flagship Store - Muzaffarpur,Flagship Showroom,Bihar,Muzaffarpur,East,2019,239,4.6
+DLR148,Salem Wheelz Royal Enfield,Studio Store,Tamil Nadu,Salem,South,2010,59,4.1
+DLR149,Muzaffarpur Wheelz Royal Enfield,Authorized Dealership,Bihar,Muzaffarpur,East,2008,139,4.7
+DLR150,Raipur Apex Motors Royal Enfield,Authorized Dealership,Chhattisgarh,Raipur,Central,2014,145,4.5
+DLR151,Aurangabad Apex Motors Royal Enfield,Authorized Dealership,Maharashtra,Aurangabad,West,2012,138,4.4
+DLR152,Royal Enfield Flagship Store - Pune,Flagship Showroom,Maharashtra,Pune,West,2009,158,4.4
+DLR153,Aurangabad Royal Drive Royal Enfield,Authorized Dealership,Maharashtra,Aurangabad,West,2013,80,4.1
+DLR154,Kanpur Apex Motors Royal Enfield,Authorized Dealership,Uttar Pradesh,Kanpur,North,2009,137,4.3
+DLR155,Jodhpur Royal Drive Royal Enfield,Authorized Dealership,Rajasthan,Jodhpur,North,2017,138,4.7
+DLR156,North Delhi Wheelz Royal Enfield,Studio Store,Delhi,North Delhi,North,2023,64,3.7
+DLR157,Royal Enfield Flagship Store - Thane,Flagship Showroom,Maharashtra,Thane,West,2017,199,5.0
+DLR158,Bhilai Apex Motors Royal Enfield,Studio Store,Chhattisgarh,Bhilai,Central,2006,48,4.0
+DLR159,Silchar Motors Royal Enfield,Authorized Dealership,Assam,Silchar,East,2019,92,4.3
+DLR160,Royal Enfield Flagship Store - Bhavnagar,Flagship Showroom,Gujarat,Bhavnagar,West,2018,233,5.0
+DLR161,Belagavi Riders Hub Royal Enfield,Authorized Dealership,Karnataka,Belagavi,South,2015,159,4.5
+DLR162,Royal Enfield Flagship Store - Bhilai,Flagship Showroom,Chhattisgarh,Bhilai,Central,2022,198,5.0
+DLR163,Jabalpur Apex Motors Royal Enfield,Authorized Dealership,Madhya Pradesh,Jabalpur,Central,2022,84,4.4
+DLR164,Jalandhar Riders Hub Royal Enfield,Authorized Dealership,Punjab,Jalandhar,North,2012,91,4.2
+DLR165,Kozhikode Motors Royal Enfield,Authorized Dealership,Kerala,Kozhikode,South,2019,101,4.5
+DLR166,Royal Enfield Flagship Store - Salem,Flagship Showroom,Tamil Nadu,Salem,South,2014,195,4.5
+DLR167,Karimnagar Vanguard Motors Royal Enfield,Authorized Dealership,Telangana,Karimnagar,South,2023,103,4.0
+DLR168,Kochi Vanguard Motors Royal Enfield,Authorized Dealership,Kerala,Kochi,South,2024,110,4.3
+DLR169,Royal Enfield Flagship Store - Guwahati,Flagship Showroom,Assam,Guwahati,East,2013,208,4.4
+DLR170,Coimbatore Apex Motors Royal Enfield,Studio Store,Tamil Nadu,Coimbatore,South,2014,83,4.0
+DLR171,Belagavi Speedways Royal Enfield,Authorized Dealership,Karnataka,Belagavi,South,2023,118,4.4
+DLR172,Ahmedabad Apex Motors Royal Enfield,Authorized Dealership,Gujarat,Ahmedabad,West,2014,105,4.8
+DLR173,Royal Enfield Flagship Store - Kolkata,Flagship Showroom,West Bengal,Kolkata,East,2023,195,4.7
+DLR174,Royal Enfield Flagship Store - Lucknow,Flagship Showroom,Uttar Pradesh,Lucknow,North,2013,151,4.7
+DLR175,Mysuru Apex Motors Royal Enfield,Studio Store,Karnataka,Mysuru,South,2014,89,4.3
+DLR176,Bhopal Wheelz Royal Enfield,Authorized Dealership,Madhya Pradesh,Bhopal,Central,2011,159,4.1
+DLR177,Bilaspur Automobiles Royal Enfield,Authorized Dealership,Chhattisgarh,Bilaspur,Central,2008,160,4.4
+DLR178,Noida Brand Store Royal Enfield,Authorized Dealership,Uttar Pradesh,Noida,North,2023,126,4.5
+DLR179,Thiruvananthapuram Speedways Royal Enfield,Studio Store,Kerala,Thiruvananthapuram,South,2018,51,3.7
+DLR180,Gaya Speedways Royal Enfield,Studio Store,Bihar,Gaya,East,2021,72,4.4
+DLR181,Guntur Apex Motors Royal Enfield,Authorized Dealership,Andhra Pradesh,Guntur,South,2014,123,4.6
+DLR182,Panaji Automobiles Royal Enfield,Studio Store,Goa,Panaji,West,2012,83,4.2
+DLR183,Nagpur Royal Drive Royal Enfield,Studio Store,Maharashtra,Nagpur,West,2016,45,4.3
+DLR184,Coimbatore Motors Royal Enfield,Authorized Dealership,Tamil Nadu,Coimbatore,South,2019,127,4.5
+DLR185,Faridabad Speedways Royal Enfield,Authorized Dealership,Haryana,Faridabad,North,2008,109,4.3
+DLR186,Gwalior Royal Drive Royal Enfield,Studio Store,Madhya Pradesh,Gwalior,Central,2015,79,3.7
+DLR187,Hubballi Apex Motors Royal Enfield,Authorized Dealership,Karnataka,Hubballi,South,2014,132,3.9
+DLR188,Bengaluru Riders Hub Royal Enfield,Studio Store,Karnataka,Bengaluru,South,2020,47,3.6
+DLR189,Royal Enfield Flagship Store - Patna,Flagship Showroom,Bihar,Patna,East,2016,235,5.0
+DLR190,Gaya Automobiles Royal Enfield,Authorized Dealership,Bihar,Gaya,East,2018,92,4.6
+DLR191,Indore Riders Hub Royal Enfield,Authorized Dealership,Madhya Pradesh,Indore,Central,2006,127,4.0
+DLR192,Vadodara Speedways Royal Enfield,Studio Store,Gujarat,Vadodara,West,2008,83,3.9
+DLR193,Raipur Vanguard Motors Royal Enfield,Authorized Dealership,Chhattisgarh,Raipur,Central,2013,104,4.8
+DLR194,Royal Enfield Flagship Store - Bhavnagar,Flagship Showroom,Gujarat,Bhavnagar,West,2024,152,4.2
+DLR195,Ghaziabad Automobiles Royal Enfield,Authorized Dealership,Uttar Pradesh,Ghaziabad,North,2023,106,3.9
+DLR196,Muzaffarpur Wheelz Royal Enfield,Authorized Dealership,Bihar,Muzaffarpur,East,2012,122,4.6
+DLR197,Royal Enfield Flagship Store - Dibrugarh,Flagship Showroom,Assam,Dibrugarh,East,2009,219,4.4
+DLR198,Royal Enfield Flagship Store - Tirupati,Flagship Showroom,Andhra Pradesh,Tirupati,South,2009,151,4.5
+DLR199,Jalandhar Brand Store Royal Enfield,Authorized Dealership,Punjab,Jalandhar,North,2010,113,3.9
+DLR200,Aurangabad Motors Royal Enfield,Authorized Dealership,Maharashtra,Aurangabad,West,2020,137,4.6

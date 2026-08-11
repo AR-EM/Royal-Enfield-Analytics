@@ -1,0 +1,16 @@
+Bike_ID,Model,Engine_CC,Category,Fuel_Type,Transmission,Mileage_kmpl,Fuel_Tank_L,Ex_Showroom_Price,Launch_Year
+BK001,Bullet 350,349,Modern Classic,Petrol,5-Speed,37.0,13.0,173500,2023
+BK002,Classic 350,349,Modern Classic,Petrol,5-Speed,36.2,13.0,193080,2021
+BK003,Hunter 350,349,Roadster,Petrol,5-Speed,36.5,13.0,149900,2022
+BK004,Meteor 350,349,Cruiser,Petrol,5-Speed,35.0,15.0,205900,2020
+BK005,Himalayan 450,452,Adventure,Petrol,6-Speed,30.0,17.0,285000,2023
+BK006,Guerrilla 450,452,Roadster,Petrol,6-Speed,29.5,11.0,239000,2024
+BK007,Scram 411,411,Adventure,Petrol,5-Speed,32.5,15.0,206394,2022
+BK008,Continental GT 650,648,Cafe Racer,Petrol,6-Speed,25.0,12.5,319000,2018
+BK009,Interceptor 650,648,Modern Classic,Petrol,6-Speed,25.0,13.7,303000,2018
+BK010,Super Meteor 650,648,Cruiser,Petrol,6-Speed,24.0,15.7,363900,2023
+BK011,Shotgun 650,648,Custom Bobber,Petrol,6-Speed,22.0,13.8,359400,2024
+BK012,Classic 500,499,Modern Classic,Petrol,5-Speed,30.0,13.5,210000,2010
+BK013,Bullet 500,499,Modern Classic,Petrol,5-Speed,30.0,13.5,188000,2011
+BK014,Thunderbird 350X,346,Cruiser,Petrol,5-Speed,35.0,20.0,163000,2018
+BK015,Continental GT 535,535,Cafe Racer,Petrol,5-Speed,26.0,13.5,208000,2013
