@@ -1,5 +1,5 @@
 import streamlit as st
-from modules.utils import load_css, render_html
+from modules.utils import load_css, render_html, disable_selectbox_typing
 from modules.data_loader import load_data
 from modules.filters import render_sidebar_filters, apply_filters
 from modules.kpi_metrics import calculate_kpis, render_kpi_cards
@@ -27,6 +27,7 @@ st.set_page_config(
 # ---------------------------------------------------------
 load_css("assets/style.css")
 render_html("assets/header.html")
+disable_selectbox_typing()
 
 # ---------------------------------------------------------
 # 3. DATA INGESTION & PREPARATION (CACHED)

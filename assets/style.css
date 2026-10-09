@@ -68,6 +68,24 @@
     text-transform: uppercase;
 }
 
+/* =========================================================
+   SELECTBOXES - PURE DROPDOWN MENU BEHAVIOR (NO TYPING)
+   ========================================================= */
+
+/* Ensure entire selectbox and all child elements show pointer cursor */
+[data-testid="stSelectbox"] div[data-baseweb="select"],
+[data-testid="stSelectbox"] div[data-baseweb="select"] * {
+    cursor: pointer !important;
+}
+
+/* Hide text caret and disable text selection in selectbox input */
+[data-testid="stSelectbox"] input {
+    cursor: pointer !important;
+    caret-color: transparent !important;
+    user-select: none !important;
+    -webkit-user-select: none !important;
+}
+
 /* Custom Footer */
 .dashboard-footer {
     margin-top: 3rem;
