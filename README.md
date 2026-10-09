@@ -1,10 +1,10 @@
-# Royal Enfield Business Performance & ERP Analytics Dashboard 🏍️
+# Royal Enfield Business Performance & ERP Analytics Dashboard 
 
 An interactive, modular business intelligence dashboard and data science case study analyzing Royal Enfield's enterprise sales, dealership network, customer demographics, and after-sales service operations across India.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Royal Enfield** (Eicher Motors Limited) operates an extensive commercial footprint spanning over 200 dealerships and thousands of customer transactions across multiple motorcycle platforms (J-series 350cc, 452cc Liquid-Cooled Sherpa, and 650cc Parallel Twins).
 
@@ -17,7 +17,7 @@ This repository provides an end-to-end analytical framework and interactive web 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Dynamic Cross-Filtering**: 6 interactive sidebar filters with cascading dependencies (Region &rarr; State &rarr; Dealer, Motorcycle Model, Category, and Transaction Month).
 - **Executive KPI Cards**: Real-time computation of Total Revenue (₹ Cr), Units Sold, Average Selling Price (ASP), Active Dealers, Customer Footprint, and Average Discounts.
@@ -33,7 +33,7 @@ This repository provides an end-to-end analytical framework and interactive web 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 royal-enfield-analytics/
@@ -63,7 +63,7 @@ royal-enfield-analytics/
 
 ---
 
-## 🛠️ Datasets
+## Datasets
 
 | File | Description |
 | :--- | :--- |
@@ -81,7 +81,7 @@ royal-enfield-analytics/
 
 ---
 
-## ⚡ Quickstart & Installation
+## Quickstart & Installation
 
 ### 1. Clone the repository
 ```bash
@@ -113,17 +113,3 @@ streamlit run app.py
 The application will launch automatically in your default browser at `http://localhost:8501`.
 
 ---
-
-## 📤 Pushing to GitHub
-
-To publish this folder to your GitHub account:
-
-```bash
-cd royal-enfield-analytics
-git init
-git add .
-git commit -m "Initial commit: Royal Enfield ERP Analytics Dashboard"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
