@@ -1,0 +1,79 @@
+/* =========================================================
+   ROYAL ENFIELD DASHBOARD - CUSTOM STYLESHEET
+   ========================================================= */
+
+/* Compact KPI Metric styling */
+[data-testid="stMetricValue"] {
+    font-size: 1.35rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+}
+
+[data-testid="stMetricLabel"] {
+    font-size: 0.75rem !important;
+    font-weight: 600 !important;
+    color: #6b7280 !important;
+    letter-spacing: 0.04em !important;
+    text-transform: uppercase !important;
+    white-space: nowrap !important;
+}
+
+/* Tighten metric padding within bordered containers */
+[data-testid="stMetric"] {
+    padding: 0.2rem 0 !important;
+}
+
+/* Header spacing and main layout */
+.block-container {
+    padding-top: 1.8rem;
+    padding-bottom: 2rem;
+}
+
+/* Custom Dashboard Header Component */
+.dashboard-header {
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.dashboard-title {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #111827;
+    margin: 0;
+    padding: 0;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.dashboard-caption {
+    font-size: 0.95rem;
+    color: #4b5563;
+    margin-top: 0.35rem;
+    margin-bottom: 0;
+}
+
+.badge-tag {
+    display: inline-block;
+    background-color: #dc2626;
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.15rem 0.55rem;
+    border-radius: 9999px;
+    margin-left: 0.6rem;
+    vertical-align: middle;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+/* Custom Footer */
+.dashboard-footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+    font-size: 0.82rem;
+    color: #9ca3af;
+}
