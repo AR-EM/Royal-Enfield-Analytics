@@ -18,7 +18,7 @@ from modules.charts import (
 # ---------------------------------------------------------
 st.set_page_config(
     page_title="Royal Enfield Business Performance Dashboard",
-    page_icon="🏍️",
+    page_icon="",
     layout="wide"
 )
 
